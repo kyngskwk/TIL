@@ -1,4 +1,4 @@
-# Django + Vuejs (REST API) - DRF 뭐죠?
+# :black_joker: Django + Vuejs (REST API) - DRF 뭐죠?
 
 - 뷰(SPA) 클라이언트 사이드 + 장고 서버 사이드
 

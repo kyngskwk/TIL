@@ -1,4 +1,4 @@
-# Django + Vuejs (REST API) + Post man - 2. Django backend(login, logout, signup, create)
+# :black_joker: Django + Vuejs (REST API) + Post man - 2. Django backend(login, logout, signup, create)
 
 ```python
 $ python2 -m venv venv
