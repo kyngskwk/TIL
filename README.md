@@ -11,6 +11,7 @@
 - JavaScript
 - Vue.js
 - Django
+- Database
 
 
 
